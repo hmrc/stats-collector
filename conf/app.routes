@@ -1,0 +1,5 @@
+# microservice specific routes
+
+#admin endpoint
+POST /admin/stats              uk.gov.hmrc.stats.controllers.StatsController.generate
+GET  /admin/stats              uk.gov.hmrc.stats.controllers.StatsController.collect
