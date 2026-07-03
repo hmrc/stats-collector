@@ -1,8 +1,3 @@
-## Notice
-
-This repository has been archived. The latest code has been migrated (in July 2026) to the public repository:
-https://github.com/hmrc/stats-collector
-
 # stats-collector
 # Overview
 
